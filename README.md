@@ -5,7 +5,7 @@ El objetivo principal de este proyecto es analizar los patrones de consumo y las
 
 ## 🗂️ Datasets Utilizados
 El análisis integra múltiples fuentes de datos relacionales provistas por la compañía:
-* `plans`: Catálogo de los planes comerciales ofrecidos (Básico, Premium).
+* `plans`: Catálogo de paquetes comerciales ofrecidos (Básico, Premium).
 * `users`: Demografía de los clientes (edad, ciudad, fecha de registro).
 * `usage`: Registro transaccional detallado del consumo de llamadas (duración) y mensajes (cantidad) por usuario.
 
