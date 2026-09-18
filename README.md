@@ -15,7 +15,7 @@ El análisis integra múltiples fuentes de datos relacionales provistas por la c
 3. **Ingeniería de Características:** Agrupación y suma del consumo individual para crear métricas consolidadas (`cant_mensajes`, `cant_llamadas`, `cant_minutos_llamada`) por cliente.
 4. **Análisis de Outliers (Heavy Users):** Uso de visualizaciones (Histogramas y Boxplots) y el método del Rango Intercuartílico (IQR) para identificar usuarios de consumo extremo, justificando su retención por su alto valor comercial.
 5. **Segmentación de Clientes:** Creación de cohortes analíticas clasificando a los usuarios según su nivel de actividad (Bajo, Medio, Alto) y grupo demográfico (Joven, Adulto, Adulto Mayor).
-6. **Insight Ejecutivo:** Generación de recomendaciones estratégicas basadas en el comportamiento real de los segmentos frente a los planes contratados.
+6. **Insight Ejecutivo:** Generación de recomendaciones estratégicas basadas en el comportamiento real de los segmentos frente a los paquetes contratados.
 
 ## 🚀 Cómo ejecutar el Notebook (Guía de Reproducción)
 
