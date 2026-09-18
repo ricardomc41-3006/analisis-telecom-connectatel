@@ -1,7 +1,7 @@
 # 📱 Análisis de Datos y Segmentación de Clientes: ConnectaTel
 
 ## 🎯 Objetivo del Proyecto
-El objetivo principal de este proyecto es analizar los patrones de consumo y las características demográficas de los usuarios de la empresa de telecomunicaciones **ConnectaTel**. A través de la limpieza de datos, análisis exploratorio y segmentación, se busca identificar perfiles de clientes de alto valor, corregir anomalías en los registros y proveer insights accionables para rediseñar la oferta comercial de planes prepago y pospago.
+El objetivo principal de este proyecto es analizar los patrones de consumo y las características demográficas de los usuarios de la empresa de telecomunicaciones **ConnectaTel**. A través de la limpieza de datos, análisis exploratorio y segmentación, se busca identificar perfiles de clientes de alto valor, corregir anomalías en los registros y proveer insights accionables para rediseñar la oferta comercial de ofertas de prepago y pospago.
 
 ## 🗂️ Datasets Utilizados
 El análisis integra múltiples fuentes de datos relacionales provistas por la compañía:
