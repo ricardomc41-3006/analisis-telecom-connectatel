@@ -24,8 +24,8 @@ El análisis integra múltiples fuentes de datos relacionales provistas por la c
 6. **Insight Ejecutivo:** Generación de recomendaciones estratégicas basadas en el comportamiento real de los segmentos frente a los paquetes contratados.
 
 7. **Hallazgos Clave:**
-  - **Desalinación de membresias:** El plan Premium no incentiva un mayor consumo respecto al plan "Básico"; ambos       presentan comportamientos de uso idénticos.
-  - **Demografía:** El segmeto *Adulto (30-60 años)* domina la cartera, mientras que el segmento *Joven (<30 años)* tiene un impacto mínimo.
+  - **Desalineación de membresias:** El plan Premium no incentiva un mayor consumo respecto al plan "Básico"; ambos       presentan comportamientos de uso idénticos.
+  - **Demografía:** El segmento *Adulto (30-60 años)* domina la cartera, mientras que el segmento *Joven (<30 años)* tiene un impacto mínimo.
   - **Oportunidad de monetización:** Se detectó un nicho de *Heavy Users* (superan el límite IQR de 61 min en llamadas) ideales para paquetes *add-on* o un plan **"Ultra"**. 
 
 ## 🚀 Cómo ejecutar el Notebook (Guía de Reproducción)
